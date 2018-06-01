@@ -1,0 +1,1 @@
+Your are opened a demo_git folder and displays content of dev.txt file
