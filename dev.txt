@@ -1,1 +1,2 @@
 Your are opened a demo_git folder and displays content of dev.txt file
+Added new line to dev text file
