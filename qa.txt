@@ -1,11 +1,20 @@
 Your openend a file named qa.txt inside git branch test.
+<<<<<<< HEAD
 Updated qa file directly in remote branch.
 Added new line in QA
+=======
+>>>>>>> 0a086c4ed5c8e35a0dd6ff942b4d250962b23c0b
 
 Added new line in QA
 
 Updated qa file directly in remote branch.
 
+<<<<<<< HEAD
 Hello changed in remote directly...
 
 Hello this changes in local
+=======
+Hello this changes in local
+
+Hello changed in remote directly...
+>>>>>>> 0a086c4ed5c8e35a0dd6ff942b4d250962b23c0b
