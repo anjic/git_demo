@@ -1,4 +1,5 @@
 pipeline{
+  agent none 
   environment {
     APPLICATION_WORKSPACE = sh(returnStdout: true, script: 'pwd').trim()
   }
