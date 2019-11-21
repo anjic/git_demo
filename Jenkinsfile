@@ -8,9 +8,7 @@ pipeline{
       steps{
         echo "Verify if the application version is already released"
         script {
-          echo sh (returnStdout: true, script: '''#!/bin/bash
-          sh 'pwd'          
-          ''')
+          sh 'pwd'
         }
       }
     }
