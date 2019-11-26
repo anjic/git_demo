@@ -9,6 +9,7 @@ pipeline{
         echo "Verify if the application version is already released"
         script {
           sh 'pwd'
+          # made comment
         }
       }
     }
